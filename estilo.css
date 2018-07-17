@@ -22,6 +22,18 @@ header p {
     color: #ccceee;
 }
 
+.banner {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.banner h1 {
+    margin: 0 0 20px;
+}
+
+.banner p {
+    margin: 0;
+}
 footer {
     width: 100%;
     background-color: #000;
